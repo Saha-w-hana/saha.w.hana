@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saha.w.hana/static/css/main.eec899b0.css",
+    "main.js": "/saha.w.hana/static/js/main.7c68400c.js",
+    "static/js/453.c551bb0b.chunk.js": "/saha.w.hana/static/js/453.c551bb0b.chunk.js",
+    "static/media/welcome-picture.jpg": "/saha.w.hana/static/media/welcome-picture.7fb1305f4029c0868bea.jpg",
+    "static/media/why-choose-us.jpg": "/saha.w.hana/static/media/why-choose-us.8539e44487f994252602.jpg",
+    "static/media/visit-us.jpg": "/saha.w.hana/static/media/visit-us.3704491c960f88bbe843.jpg",
+    "static/media/our-menu.jpg": "/saha.w.hana/static/media/our-menu.5150fdc73d97242377c4.jpg",
+    "static/media/our-story.jpg": "/saha.w.hana/static/media/our-story.11f8b221f28d034f3fcb.jpg",
+    "index.html": "/saha.w.hana/index.html",
+    "main.eec899b0.css.map": "/saha.w.hana/static/css/main.eec899b0.css.map",
+    "main.7c68400c.js.map": "/saha.w.hana/static/js/main.7c68400c.js.map",
+    "453.c551bb0b.chunk.js.map": "/saha.w.hana/static/js/453.c551bb0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eec899b0.css",
+    "static/js/main.7c68400c.js"
+  ]
+}
