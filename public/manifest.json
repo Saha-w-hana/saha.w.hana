@@ -1,0 +1,8 @@
+{
+  "short_name": "SAHA W HANA",
+  "name": "SAHA W HANA Restaurant Website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#c0392b",
+  "background_color": "#fff8f0"
+}
